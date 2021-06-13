@@ -1,0 +1,13 @@
+C:\Users\vivek\OneDrive\Git\Repo\c#\src\codes\bin\Debug\netcoreapp3.1\codes.exe
+C:\Users\vivek\OneDrive\Git\Repo\c#\src\codes\bin\Debug\netcoreapp3.1\codes.deps.json
+C:\Users\vivek\OneDrive\Git\Repo\c#\src\codes\bin\Debug\netcoreapp3.1\codes.runtimeconfig.json
+C:\Users\vivek\OneDrive\Git\Repo\c#\src\codes\bin\Debug\netcoreapp3.1\codes.runtimeconfig.dev.json
+C:\Users\vivek\OneDrive\Git\Repo\c#\src\codes\bin\Debug\netcoreapp3.1\codes.dll
+C:\Users\vivek\OneDrive\Git\Repo\c#\src\codes\bin\Debug\netcoreapp3.1\codes.pdb
+C:\Users\vivek\OneDrive\Git\Repo\c#\src\codes\obj\Debug\netcoreapp3.1\codes.csprojAssemblyReference.cache
+C:\Users\vivek\OneDrive\Git\Repo\c#\src\codes\obj\Debug\netcoreapp3.1\codes.AssemblyInfoInputs.cache
+C:\Users\vivek\OneDrive\Git\Repo\c#\src\codes\obj\Debug\netcoreapp3.1\codes.AssemblyInfo.cs
+C:\Users\vivek\OneDrive\Git\Repo\c#\src\codes\obj\Debug\netcoreapp3.1\codes.csproj.CoreCompileInputs.cache
+C:\Users\vivek\OneDrive\Git\Repo\c#\src\codes\obj\Debug\netcoreapp3.1\codes.dll
+C:\Users\vivek\OneDrive\Git\Repo\c#\src\codes\obj\Debug\netcoreapp3.1\codes.pdb
+C:\Users\vivek\OneDrive\Git\Repo\c#\src\codes\obj\Debug\netcoreapp3.1\codes.genruntimeconfig.cache
